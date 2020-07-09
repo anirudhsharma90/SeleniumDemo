@@ -22,6 +22,11 @@ public WebDriver driver;
 		driver=initializeDriver();
 		driver.get(prop.getProperty("URL"));
 		System.out.println("US Time");
+		System.out.println("US Time");
+		System.out.println("US Time");
+		System.out.println("US Time");
+		System.out.println("US Time");
+		System.out.println("US Time");
 }	
 	
 	
