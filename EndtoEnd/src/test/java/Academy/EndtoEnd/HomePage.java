@@ -21,6 +21,7 @@ public WebDriver driver;
 	public void Before() throws IOException {
 		driver=initializeDriver();
 		driver.get(prop.getProperty("URL"));
+		System.out.println("US Time");
 }	
 	
 	
